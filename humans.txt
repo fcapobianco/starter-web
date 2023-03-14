@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jason Taylor Git.Trainer name__AT__email__DOT__domain
 
 # THANKS
 
